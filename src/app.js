@@ -58,7 +58,7 @@ const alphabet = [
   
   const fruits = ["Apple", "Banana", "Orange"];
   
-  
+  var tea = "Darjeeling";
   
   // const languages = ["Arabic", "Japanese", "Spanish"];
   
